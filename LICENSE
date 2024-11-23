@@ -1,0 +1,69 @@
+
+
+Copyright (c) 2024 Catdrout
+
+## Definitions
+- "Software" refers to the React macOS Clone project and all its associated source code, documentation, and assets
+- "Author" refers to the original creator(s) of the Software
+- "User" refers to any person or entity that uses, modifies, or interacts with the Software
+
+## Permissions
+1. Personal Use
+   - Users are permitted to use the Software for personal, non-commercial purposes
+   - Users may fork and modify the Software for personal use
+
+2. Modifications
+   - Users may modify the Software for personal use
+   - Modified versions must maintain all original copyright notices and credits
+   - All modifications must be clearly documented and attributed
+
+## Restrictions
+1. Commercial Use
+   - The Software may not be used for commercial purposes
+   - Commercial purposes include, but are not limited to:
+     - Using the Software in a commercial product
+     - Using the Software to provide commercial services
+     - Selling the Software or derivatives of it
+
+2. Distribution
+   - Mass distribution of the Software or its derivatives is prohibited
+   - "Mass distribution" includes:
+     - Publishing to public package repositories
+     - Distribution to multiple organizations
+     - Making the Software available for download on public platforms
+
+3. Credits and Attribution
+   - All copies and derivatives of the Software must maintain the following:
+     - A visible credit to the original Author in the user interface
+     - The original copyright notice
+     - A link to the original repository
+     - This license text
+
+## Legal Jurisdiction
+1. Governing Law
+   - This license is governed by the laws of Sweden
+   - Any disputes arising from this license shall be resolved in Swedish courts
+
+2. Survival
+   - The terms of this license survive any termination of use
+   - Obligations regarding attribution and restrictions continue after termination
+
+## Warranty and Liability
+1. The Software is provided "AS IS", without warranty of any kind
+2. The Author is not liable for any damages arising from the use of the Software
+
+## Termination
+1. This license automatically terminates if you violate any of its terms
+2. Upon termination:
+   - All rights to use the Software cease immediately
+   - You must destroy all copies of the Software
+   - Attribution and restriction requirements survive termination
+
+## Contact
+For licensing inquiries, please contact c4tdr0ut at duck dot com
+
+## Acknowledgment
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this license. Your use of the Software constitutes acceptance of these terms.
+
+---
+Note: This is a custom license and may not be compatible with certain open-source licenses. Consult legal counsel for specific use cases. 
